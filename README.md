@@ -7,9 +7,8 @@ I am participating in Data Engineering Zoom BootCamp by DataTalks Club and am tr
 ![Architectural Diagram](./images/architectual_diagram.jpeg)
 
 ## Overview
-Price: $0
-Duration: 9 Weeks
-
+- Price: $0
+- Duration: 9 Weeks <br>
 ## Topics Covered and Tools used:
 - Week 1: Introduction & Pre-requisites with Docker, PostgreSQL, Terraform & Google Cloud Platform
 - Week 2: Data Ingestion and Workflow Orchestration with Docker and Apache Airflow
@@ -17,7 +16,7 @@ Duration: 9 Weeks
 - Week 4: Analytics Engineering with dbt
 - Week 5: Batch Processing with Apache Spark
 - Week 6: Streaming with Apache Kafka
-- Weeks 7/8/9: Finaal Project
+- Weeks 7/8/9: Final Project <br>
 
 ### Week 1 
 Topics:
@@ -35,8 +34,7 @@ In this week, the course covered a lot.
 - Using IAM to create a service account with the right roles and permissions to create a project
 - Finally, an Intro to Terraform - using terraform and Infrastructure as code to spin up cloud instances and resources by bypassing the user console
 
-Week 1 took some work to ensure environments were configured correctly and to establish a foundation for the rest of the course but there was a lot to learn about and a lot that served as a refresher from my past projects. I'm looking forward to the coming weeks.
-
+Week 1 took some work to ensure environments were configured correctly and to establish a foundation for the rest of the course but there was a lot to learn about and a lot that served as a refresher from my past projects. I'm looking forward to the coming weeks. <br>
 
 ### Week 2
 Topics:
