@@ -18,7 +18,7 @@ I am participating in Data Engineering Zoom BootCamp by DataTalks Club and am tr
 - Week 6: Streaming with Apache Kafka
 - Weeks 7/8/9: Final Project <br>
 
-### Week 1 
+## Week 1 
 Topics:
 - Understanding the Hierrachies withing a host machine and its environment
 - Important Concepts to understand for Data Engineering
@@ -36,7 +36,7 @@ In this week, the course covered a lot.
 
 Week 1 took some work to ensure environments were configured correctly and to establish a foundation for the rest of the course but there was a lot to learn about and a lot that served as a refresher from my past projects. I'm looking forward to the coming weeks. <br>
 
-### Week 2
+## Week 2
 Topics:
 - Workflow Orchestration
 - Understanding the steps in a data pipeline workflow (ETL/ELT)
